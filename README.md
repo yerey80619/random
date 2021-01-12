@@ -13,6 +13,15 @@
 ```php
 <?php
 
+	require_once 'vendor/autoload';
+	use Random\Random;
+```
+
+### Example
+
+```php
+<?php
+
     require_once '/vendor/autoload.php';
 
     use Random\Random;
@@ -21,15 +30,6 @@
     echo $random->create();
 
 ?>
-```
-
-### Example
-
-```php
-<?php
-
-	require_once 'vendor/autoload';
-	use Random\Random;
 ```
 
 ##Functions
