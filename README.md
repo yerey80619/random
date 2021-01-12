@@ -3,12 +3,12 @@
 - Creates random string.
 
 
-####Installation
+### Installation
 
 `$ composer require yerey/random`
 
 
-####Usage
+### Usage
 
 ```php
 <?php
@@ -23,7 +23,7 @@
 ?>
 ```
 
-####Example
+### Example
 
 ```php
 <?php
@@ -32,7 +32,7 @@
 	use Random\Random;
 ```
 
-###Functions
+##Functions
 
 | Function name | Description                    |
 | ------------- | ------------------------------ |
