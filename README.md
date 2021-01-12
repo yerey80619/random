@@ -15,6 +15,8 @@
 
 	require_once 'vendor/autoload';
 	use Random\Random;
+
+?>
 ```
 
 ### Example
@@ -32,7 +34,7 @@
 ?>
 ```
 
-##Functions
+### Functions
 
 | Function name | Description                    |
 | ------------- | ------------------------------ |
